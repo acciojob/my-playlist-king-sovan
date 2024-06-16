@@ -6,9 +6,12 @@ h1, h2{
 	text-align: center;
 }
 
+.songs li{
+	list-style-type: none;
+}
+
 .songs{
 	background-color: white;
-	list-style-type: none;
 	justify-items: space-between;
 	border: 2px solid black;
 	box-sizing: border-box;
